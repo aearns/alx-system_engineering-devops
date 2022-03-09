@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la > ls_cwd_content
+cut -d: -f 1,6 /etc/passwd | sort -d
