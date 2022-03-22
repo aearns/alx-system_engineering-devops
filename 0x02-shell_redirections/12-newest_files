@@ -1,2 +1,2 @@
 #!/bi/bash
-ls -1t | head - 10
+ls -1t | head -10
