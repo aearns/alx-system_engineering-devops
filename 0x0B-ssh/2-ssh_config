@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Client configuration file
+# file with user config
+
+Host 34.236.170.252
+	PasswordAuthentication no
+	IdentifyFile ~/.ssh/school
